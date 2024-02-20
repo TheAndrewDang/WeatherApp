@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Assignment 1</string>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="search_error">
+        Error fetching results: %1$s
+    </string>
 </resources>

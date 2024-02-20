@@ -1,4 +1,4 @@
-package edu.oregonstate.cs492.assignment1
+package edu.oregonstate.cs492.assignment2
 
 import org.junit.Test
 

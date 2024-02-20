@@ -1,1 +1,1 @@
-Fake Weather App with not-so-real data just yet! Still learning!
+REAL WEATHER APP WITH NEW API CAPABILITIES FOR LIVE DATA!
